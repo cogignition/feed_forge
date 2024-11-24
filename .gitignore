@@ -1,0 +1,57 @@
+# Ignore SQLite database file
+youtube_playlists.db
+
+# Ignore OAuth client secrets file
+client_secrets_file.json
+client_secret.json
+
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.envrc
+*.env
+
+# Ignore virtual environment directories
+venv/
+.env/
+.venv/
+
+# Ignore IDE and editor configuration files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore log and output files
+*.log
+*.out
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+*.cover
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore temporary backup files
+*.bak
+*.orig
+
+# Ignore macOS Finder metadata
+.DS_Store
